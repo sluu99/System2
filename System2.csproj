@@ -42,6 +42,7 @@
   <ItemGroup>
     <Compile Include="InvariantString.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="StringHash.cs" />
     <Compile Include="SystemTime.cs" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
